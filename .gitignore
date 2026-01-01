@@ -1,0 +1,9 @@
+# Compiled output
+*.pdf
+
+# LaTeX files (converted to Typst)
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
