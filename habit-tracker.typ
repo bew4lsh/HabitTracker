@@ -186,11 +186,14 @@
     // Breaks
     acell[Breaks], acell[#breaks-cell], acell[#breaks-cell], acell[#breaks-cell], acell[#breaks-cell], acell[#breaks-cell], acell[#breaks-cell], acell[#breaks-cell],
 
-    // Calories
-    [Calories], cal-cell, cal-cell, cal-cell, cal-cell, cal-cell, cal-cell, cal-cell,
+    // Calorie Deficit
+    [Cal Deficit], cal-cell, cal-cell, cal-cell, cal-cell, cal-cell, cal-cell, cal-cell,
 
     // Protein
     acell[Protein], acell[#protein-cell], acell[#protein-cell], acell[#protein-cell], acell[#protein-cell], acell[#protein-cell], acell[#protein-cell], acell[#protein-cell],
+
+    // Visualization
+    [Visualization], breaks-cell, breaks-cell, breaks-cell, breaks-cell, breaks-cell, breaks-cell, breaks-cell,
   )
 ]
 
